@@ -6,17 +6,17 @@ Reposítorio criado duranteuma aula ao vivo!
 Essa linha eu adicionei diretamente no site! QUE IMPRESSIONTE!
 
 
-#Aula de linguagem MARKDOWN 
+# Aula de linguagem MARKDOWN 
 ---
 OU
 ***
 Estou aprendendo linguagem **MARKDOWN** no Curso em vídeo de Git e GitHub.
 
-#Título nível 1
+# Título nível 1
 
-##Título nível 2
+## Título nível 2
 
-###Título nível 3
+### Título nível 3
 
 estilos
 **negrito** ou __negrito__
@@ -59,3 +59,24 @@ Número | Nome | Nota
 ---|---|---
 1 | Gustavo | 8,5
 2 | José | 10
+3 | Maria | 9,0
+4 | Farias | 3,5
+
+Terminou a tabela
+
+
+Não entendo para que serve o comando `document.getElementById()` da linguagem Javascript
+
+Olha meu programa em python
+
+```
+Num = int(input('Digite um valor:')
+if num % 2 == 0:
+    print(f'O valor {num} é par)
+else:
+    print(f'O valor {num} é ímpar)
+```
+
+Olá, pequeno Gafanhoto 🖖 ✋ 🐒
+
+> Será que vai chover???
